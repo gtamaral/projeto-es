@@ -14,12 +14,7 @@ O projeto de gestão financeira para mães solteiras visa fornecer uma solução
 ## 🎯 Etapas
 
 ✔️ Definição da BigIdea do projeto
-✔️ ?
-✔️ ?
-✔️ ?
-✔️ ?
-✔️ ?
-❌ Projeto Finalizado
+
 
 ## 🚀 Tecnologias
 

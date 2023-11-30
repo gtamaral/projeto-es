@@ -5,3 +5,7 @@ Optamos por adotar uma abordagem preliminar no projeto, com o intuito de aprimor
 A definição de prazos, descrições e a alocação de links/documentos relacionados a cada entrega, juntamente com a organização pública e de fácil acesso para todos, são aspectos extremamente positivos que auxiliam no desenvolvimento do projeto. Além da comunicação assíncrona via WhatsApp e Discord, decidimos realizar reuniões semanais pessoalmente, no CIn, ou por meio de videoconferências, utilizando plataformas como Discord e Google Meet. Essas reuniões têm o propósito de atribuir tarefas entre os membros, alinhar estratégias, discutir desafios e compartilhar atualizações sobre o progresso das atividades.
 
 Essa abordagem integrada visa promover uma comunicação eficaz, um acompanhamento transparente do progresso e uma validação contínua, contribuindo para o sucesso do projeto.
+
+# Links:
+https://trello.com/b/FCBg8Ym4/kanban-quadro-modelo
+https://www.notion.so/Projeto-de-Engenharia-de-Software-c322264368424341889916e1e42f86e1

@@ -35,5 +35,6 @@ O projeto de gestão financeira para mães solteiras visa fornecer uma solução
 - CSS3
 - MongoDb
 - NodeJS
-
+- Python
+- Power BI
 

@@ -15,7 +15,7 @@ O projeto de gestão financeira para mães solteiras visa fornecer uma solução
 - Rodrigo Amaral Jucá
 - Diogo Nogueira Lima
 - Luis Filipe Vasconcelos
-- Matheus Augusto Alves
+- Matheus Augusto Alves Bonfim
 
 ## 🎯 Etapas
 

@@ -22,7 +22,7 @@ O projeto de gestão financeira para mães solteiras visa fornecer uma solução
 ✔️ Definição da BigIdea do projeto
 
 
-# ✍📋 Metodologias utilizadas 
+## ✍📋 Metodologias utilizadas 
 
 - SCRUM
 - KANBAN

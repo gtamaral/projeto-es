@@ -10,8 +10,6 @@ import CategoryButton from "../../components/category-button";
 import { useRef, useState } from "react";
 
 
-
-
 export default function Category() {
 
   const [category, setCategory] = useState(CATEGORIAS[0])
@@ -31,7 +29,13 @@ export default function Category() {
   return (
     <View className="flex-1 bg-[#5228A5]">
 
-        <SafeAreaView className="flex-1">
+      <SafeAreaView className="flex-1">
+
+          <View className="items-start px-5 pt-6">
+            <Text className="text-white font-bold text-2xl">Categorias:</Text>
+          </View>
+
+
           <View>
             <FlatList 
               ref={sectionRef}

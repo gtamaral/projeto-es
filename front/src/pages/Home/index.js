@@ -5,6 +5,8 @@ import CardHome from '../../components/card-home';
 import { AntDesign } from '@expo/vector-icons';
 import Categories from '../../components/categories';
 
+// import {Link} from "expo-router"
+
 
 
 // data
@@ -22,6 +24,7 @@ export default function Home() {
             <TouchableOpacity activeOpacity={0.6}>
                 <AntDesign name='pluscircle' size={24} color="black"/>
             </TouchableOpacity>
+            {/* <Link href={"/Login"}>Ir para login</Link> */}
         </View>
         
 

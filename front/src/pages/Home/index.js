@@ -5,26 +5,32 @@ import CardHome from '../../components/card-home';
 import { AntDesign } from '@expo/vector-icons';
 import Categories from '../../components/categories';
 
-// import {Link} from "expo-router"
-
-
-
 // data
 import {CATEGORIAS_GASTOS, CATEGORIAS, CATEGORIAS_GASTOS_COM_TOTAL} from "../../utils/data/info"
 
+
+
 export default function Home() {
-  return (
+
+
+    const totalSaida = CATEGORIAS_GASTOS_COM_TOTAL.reduce((accumulator, currentCategory) => {
+    return accumulator + parseFloat(currentCategory.totalValue);
+  }, 0);
+
+    // Formatar o total para duas casas decimais e substituir ponto por vírgula
+    const totalSaidaFormatado = totalSaida.toFixed(2).replace('.', ',');
+
+    return (
     
     <View className="flex-1">
         <Header name="Maria" />
-        <CardHome saldo="1500,00"/>
+        <CardHome saldo={totalSaidaFormatado}/>
         
         <View className="flex-row justify-between pt-4 px-6 items-center">
             <Text className="text-2xl text-back font-semibold">Categorias</Text>
             <TouchableOpacity activeOpacity={0.6}>
                 <AntDesign name='pluscircle' size={24} color="black"/>
             </TouchableOpacity>
-            {/* <Link href={"/Login"}>Ir para login</Link> */}
         </View>
         
 

@@ -5,10 +5,10 @@ import Register from "./src/pages/Register";
 
 export default function App() {
   return (
-    // <NavigationContainer>
-    //   <Routes />
-    // </NavigationContainer>
-    <Login />
+    <NavigationContainer>
+      <Routes />
+    </NavigationContainer>
+    // <Login />
     // <Register />
   );
 }

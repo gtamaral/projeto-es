@@ -13,12 +13,12 @@ import {CATEGORIAS_GASTOS, CATEGORIAS, CATEGORIAS_GASTOS_COM_TOTAL} from "../../
 export default function Home() {
 
 
-    const totalSaida = CATEGORIAS_GASTOS_COM_TOTAL.reduce((accumulator, currentCategory) => {
+    const currentBalance = CATEGORIAS_GASTOS_COM_TOTAL.reduce((accumulator, currentCategory) => {
     return accumulator + parseFloat(currentCategory.totalValue);
   }, 0);
 
     // Formatar o total para duas casas decimais e substituir ponto por vírgula
-    const totalSaidaFormatado = totalSaida.toFixed(2).replace('.', ',');
+    const totalSaidaFormatado = currentBalance.toFixed(2).replace('.', ',');
 
     return (
     

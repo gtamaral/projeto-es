@@ -8,8 +8,8 @@ export default function App() {
     // <NavigationContainer>
     //   <Routes />
     // </NavigationContainer>
-    <Login />
-    // <Register />
+    // <Login />
+    <Register />
   );
 }
 

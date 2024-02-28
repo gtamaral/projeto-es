@@ -10,10 +10,10 @@ const Register = () => {
             </View>
 
             <View className="p-0 mt-8 flex mb-8">
-                <View className="h-[60px] rounded-full bg-[#EFE7FE] mx-5 mb-4"><TextInput editable className="p-6" placeholder="Nome" /></View>
-                <View className="h-[60px] rounded-full bg-[#EFE7FE] mx-5 mb-4"><TextInput editable className="p-6" placeholder="Email" /></View>
-                <View className="h-[60px] rounded-full bg-[#EFE7FE] mx-5 mb-4"><TextInput editable className="p-6" placeholder="Senha"/></View>
-                <View className="h-[60px] rounded-full bg-[#EFE7FE] mx-5"><TextInput editable className="p-6" placeholder="Repetir a senha"/></View>
+                <View className="h-[60px] rounded-full bg-[#ebe8f1] mx-5 mb-4"><TextInput editable className="p-6" placeholder="Nome" /></View>
+                <View className="h-[60px] rounded-full bg-[#ebe8f1] mx-5 mb-4"><TextInput editable className="p-6" placeholder="Email" /></View>
+                <View className="h-[60px] rounded-full bg-[#ebe8f1] mx-5 mb-4"><TextInput editable className="p-6" placeholder="Senha"/></View>
+                <View className="h-[60px] rounded-full bg-[#ebe8f1] mx-5"><TextInput editable className="p-6" placeholder="Repetir a senha"/></View>
             </View>
 
             <Button text="Criar conta" className="mt-8" />

@@ -42,6 +42,7 @@ export default function Home() {
          renderSectionHeader={({section: {title, totalValue}}) => <Categories title={title} totalValue={totalValue}  />}
          showsVerticalScrollIndicator={false}
          renderItem={({item}) => null}
+         className="flex-1"
          contentContainerStyle={{paddingBottom:100}}
         
          />

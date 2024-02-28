@@ -14,10 +14,10 @@ export default function CardHome({saldo}) {
             </View>
             <View className="flex-row justify-between pt-4 mx-5">
                 <View className="w-[100px]">
-                    <Text className="font-base text-center text-white text-xl font-semibold ">Balanço atual:</Text>
+                    <Text className="text-center text-white text-lg font-semibold ">Balanço atual:</Text>
                 </View>
                 <View className="w-[130px] items-center justtify-center flex mt-4">
-                    <Text className="font-base text-white text-xl font-semibold">- R${saldo}</Text>
+                    <Text className="font-base text-white text-lg font-semibold">- R${saldo}</Text>
                 </View>
             </View>
         </View>

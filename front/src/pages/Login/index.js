@@ -4,7 +4,7 @@ import { Image } from "react-native";
 
 export default function Login() {
     return (
-        <View className="flex-1 bg-[#F8F7FA] p-0">
+        <View className="flex-1 bg-[#F8F7FA]">
             {/* <View><Image source={require("../../../assets/icon-auth-screen.png")} /></View> */}
             <View className="items-center justify-center flex pt-28">
                 <Text className="font-semibold text-4xl text-[#8C52FF] ">Login</Text>
@@ -12,12 +12,12 @@ export default function Login() {
             </View>
 
             <View className="pt-14 flex">
-                <View className="h-16  bg-[#ebe8f1] mx-5 rounded-full mb-6 items-start pl-6 justify-center">
-                    <TextInput className="font-semibold text-base pb-1 text-black" placeholder="Email"></TextInput>
+                <View className="h-16  bg-[#ebe8f1] mx-5 rounded-full mb-5">
+                    <TextInput className="font-semibold text-base p-6 text-black" placeholder="Email" />
                 </View>
 
-                <View className="h-16 bg-[#ebe8f1] mx-5 rounded-full items-start justify-center">
-                    <TextInput className="font-semibold text-base text-[#a2a1a1] px-5" placeholder="Senha"></TextInput>
+                <View className="h-16 bg-[#ebe8f1] mx-5 rounded-full">
+                    <TextInput className="font-semibold text-base text-[#a2a1a1] p-6" placeholder="Senha" />
                 </View>
             </View>
 

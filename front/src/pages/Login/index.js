@@ -22,7 +22,7 @@ export default function Login() {
             </View>
 
             <View className="pt-10">
-                <Button text="teste" />
+                <Button text="Entrar" />
             </View>
 
             <View className="pt-8 items-center justify-center leading-8">

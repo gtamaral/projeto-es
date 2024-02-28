@@ -6,9 +6,9 @@ export default function Login() {
     return (
         <View className="flex-1 bg-[#F8F7FA] p-0">
             {/* <View><Image source={require("../../../assets/icon-auth-screen.png")} /></View> */}
-            <View className="items-center justify-center flex pt-32">
+            <View className="items-center justify-center flex pt-28">
                 <Text className="font-semibold text-4xl text-[#8C52FF] ">Login</Text>
-                <Text className="text-xl text-[#a2a1a1] font-semibold pt-5">Entre com seu email e senha!</Text>
+                <Text className="text-xl text-[#a2a1a1] font-semibold pt-5 mx-20 text-center">Entre com seu email e senha!</Text>
             </View>
 
             <View className="pt-14 flex">
@@ -26,7 +26,7 @@ export default function Login() {
             </View>
 
             <View className="pt-8 items-center justify-center leading-8">
-                <Text className="text-base font-semibold text-[#777777]">Ou entrar com</Text>
+                <Text className="text-base font-semibold text-[#a2a1a1]">Ou entrar com</Text>
             </View>
 
             <View className="pt-8">

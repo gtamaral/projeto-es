@@ -56,6 +56,7 @@ export default function Category() {
             />
         </View>
 
+        <ScrollView>
         <View className="">
           {categorySelectedPrice && (
               <CardCategory name={categorySelectedPrice.title} value={categorySelectedPrice.totalValue.toFixed(2)} />
@@ -69,6 +70,8 @@ export default function Category() {
                   <AntDesign name='pluscircle' size={24} color="white"/>
               </TouchableOpacity>
         </View>
+        
+        
 
           <SectionList    
             sections={CATEGORIAS_GASTOS.filter(categoria => categoria.title === category)}
@@ -79,7 +82,11 @@ export default function Category() {
             showsVerticalScrollIndicator={false}
             contentContainerStyle={{paddingBottom:100}}
           />
+          </ScrollView>
+          
         </SafeAreaView>
     </View>
+
+
   )
 }

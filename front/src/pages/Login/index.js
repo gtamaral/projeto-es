@@ -1,8 +1,11 @@
 import { Text, TextInput, Touchable, TouchableOpacity, View } from "react-native";
 import Button from "../../components/Button";
 import { Image } from "react-native";
+import { useNavigation } from '@react-navigation/native';
 
 export default function Login() {
+    const navigation = useNavigation()
+
     return (
         <View className="flex-1 bg-[#F8F7FA]">
             {/* <View><Image source={require("../../../assets/icon-auth-screen.png")} /></View> */}
@@ -32,7 +35,7 @@ export default function Login() {
             <View className="pt-8">
                 <Button text="Entrar com Google" />
                 <View className="flex items-center justify-center pt-6">
-                    <Text className="text-base text-[#777777] font-semibold">Não tem conta? <Text className="text-[#8C52FF]">Crie aqui.</Text></Text>
+                    <Text className="text-base text-[#777777] font-semibold">Não tem conta? <Text onPress={() => navigation.navigate("Register")} className="text-[#8C52FF]">Crie aqui.</Text></Text>
                     
                 </View>
             </View>

@@ -1,7 +1,10 @@
 import { Text, TextInput, View } from "react-native";
 import Button from "../../components/Button";
+import { useNavigation } from '@react-navigation/native';
+
 
 const Register = () => {
+    const navigation = useNavigation()
     return (
         <View className="flex-1 bg-[#F8F7FA]">
             <View className="items-center justify-center flex pt-28">
@@ -19,7 +22,7 @@ const Register = () => {
             <Button text="Criar conta" className="mt-1" />
 
             <View className="flex items-center justify-center mt-8">
-                <Text className="text-base text-[#a2a1a1] font-bold">Já tem conta? <Text className="text-[#8C52FF] text-base font-bold">Entre aqui.</Text></Text>
+                <Text className="text-base text-[#a2a1a1] font-bold">Já tem conta? <Text onPress={() => navigation.navigate("Login")} className="text-[#8C52FF] text-base font-bold">Entre aqui.</Text></Text>
             </View>
         </View>
     )

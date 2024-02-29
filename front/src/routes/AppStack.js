@@ -1,15 +1,16 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
-import Home from './pages/Home';
-import Category from './pages/Category';
-import Chat from './pages/Chat';
-import CustomTab from './components/custom-tab';
+import Home from '../pages/Home';
+import Category from '../pages/Category';
+import Chat from '../pages/Chat';
+import CustomTab from '../components/custom-tab';
 
 const Tab = createBottomTabNavigator();
 
-const Routes = () => {
-    const isSigned = false
-    
+
+
+
+const AppStack = () => {
     return (
         <Tab.Navigator 
          screenOptions={{
@@ -33,5 +34,4 @@ const Routes = () => {
     )
 }
 
-
-export default Routes;
+export default AppStack;

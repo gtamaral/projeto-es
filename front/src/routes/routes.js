@@ -3,7 +3,7 @@ import AppStack from './AppStack';
 import AuthStack from './AuthStack';
 
 const Routes = () => {
-    const auth = false
+    const auth = true
 
     return (
         <NavigationContainer>

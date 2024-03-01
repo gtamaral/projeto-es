@@ -17,8 +17,8 @@ const Register = () => {
             </View>
 
             <View className="items-center justify-center flex pt-8">
-                <Text className="font-bold text-[#8C52FF] text-3xl">Criar conta</Text>
-                <Text className="font-bold text-[#a2a1a1] font-semibold pt-5 text-xl mx-10 text-center">Coloque suas informações abaixo</Text>
+                <Text className="font-semibold text-[#8C52FF] text-3xl">Criar conta</Text>
+                <Text className=" text-[#a2a1a1] font-semibold pt-5 text-xl mx-10 text-center">Coloque suas informações abaixo</Text>
             </View>
 
             <View className="mt-8 flex mb-14">
@@ -31,9 +31,9 @@ const Register = () => {
             <Button text="Criar conta" className="mt-1" />
 
             <View className="flex-row items-center justify-center mt-8">
-                <Text className="text-base text-[#a2a1a1] font-bold">Já tem conta? </Text>
+                <Text className="text-base text-[#a2a1a1] font-semibold">Já tem conta? </Text>
                 <TouchableOpacity> 
-                    <Text onPress={() => navigation.navigate("Login")} className="text-[#8C52FF] text-base font-bold">Entre aqui.</Text>
+                    <Text onPress={() => navigation.navigate("Login")} className="text-[#8C52FF] text-base font-semibold">Entre aqui.</Text>
                 </TouchableOpacity>
             </View>
             </SafeAreaView>

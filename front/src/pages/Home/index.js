@@ -39,7 +39,7 @@ export default function Home() {
          sections={CATEGORIAS_GASTOS_COM_TOTAL}
          keyExtractor={(item, index) => item + index }
          stickySectionHeadersEnabled={false}
-         renderSectionHeader={({section: {title, totalValue}}) => <Categories title={title} totalValue={totalValue}  />}
+         renderSectionHeader={({section: {title, totalValue}}) => <Categories title={title} totalValue={totalValue} key={title} />}
          showsVerticalScrollIndicator={false}
          renderItem={({item}) => null}
          className="flex-1"

@@ -8,7 +8,7 @@ const CategoryButton = ({title, isSelected, ...rest}) => {
             isSelected && "border-2 border-white-400 bg-[#26134a]")
             } {...rest}>   
             
-            <Text className='text-slate-100 font-subtitle text-sm'>
+            <Text className='text-slate-100 font-semibold text-sm'>
                 {title}
             </Text>
 

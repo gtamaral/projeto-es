@@ -8,6 +8,7 @@ import { CATEGORIAS, CATEGORIAS_GASTOS, CATEGORIAS_GASTOS_COM_TOTAL } from "../.
 import { FlatList } from "react-native";
 import CategoryButton from "../../components/category-button";
 import { useRef, useState } from "react";
+import CategoryHeader from "../../components/category-header";
 
 
 export default function Category() {
@@ -32,7 +33,7 @@ export default function Category() {
       <SafeAreaView className="flex-1">
 
           <View className="items-start px-5 pt-6">
-            <Text className="text-white font-bold text-2xl">Categorias:</Text>
+            <Text className="text-white font-semibold text-2xl">Categorias:</Text>
           </View>
 
 
@@ -55,34 +56,17 @@ export default function Category() {
         
             />
         </View>
-
-        <ScrollView>
-        <View className="">
-          {categorySelectedPrice && (
-              <CardCategory name={categorySelectedPrice.title} value={categorySelectedPrice.totalValue.toFixed(2)} />
-          )}
-            
-        </View>
-
-        <View className="flex-row justify-between pt-8 mb-8 px-6 items-center">
-              <Text className="text-2xl text-white font-base">Adicionar saída</Text>
-              <TouchableOpacity activeOpacity={0.6}>
-                  <AntDesign name='pluscircle' size={24} color="white"/>
-              </TouchableOpacity>
-        </View>
         
-        
-
           <SectionList    
+            ListHeaderComponent={CategoryHeader}
             sections={CATEGORIAS_GASTOS.filter(categoria => categoria.title === category)}
             keyExtractor={(item, index) => item + index }
             stickySectionHeadersEnabled={false}
-            // renderSectionHeader={(item) => <Saidas title={item.title} value={item.value}  />}
             renderItem={({item}) => (<Saidas title={item.title} value={item.value} /> )}
             showsVerticalScrollIndicator={false}
             contentContainerStyle={{paddingBottom:100}}
           />
-          </ScrollView>
+          {/* </ScrollView> */}
           
         </SafeAreaView>
     </View>

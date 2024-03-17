@@ -14,8 +14,7 @@ O projeto EducaMães consiste em um aplicativo móvel destinados a ajudar mães 
 
 ## Metodologia de Desenvolvimento Utilizada
 
-Para o desenvolvimento do projeto, adotamos uma abordagem ágil, combinando práticas do Scrum e Kanban. Utilizamos ferramentas como Trello, Notion e GitHub para gerenciamento de tarefas e comunicação entre a equipe. # FOTO DO QUADRO KANBAN
-
+Para o desenvolvimento do projeto, adotamos uma abordagem ágil, combinando práticas do Scrum e Kanban. Utilizamos ferramentas como Trello, Notion e GitHub para gerenciamento de tarefas e comunicação entre a equipe. , que pode ser acessado neste [link]().
 ------
 
 ## Tecnologias Utilizadas
@@ -35,7 +34,7 @@ Aqui estão as principais tecnologias utilizadas no desenvolvimento do projeto:
 
 ## Acesso à Aplicação
 
-A versão web do aplicativo estará disponível em breve. Para acessar a versão móvel, baixe o aplicativo Mãe Financeira na loja de aplicativos do seu dispositivo (Google Play Store ou Apple App Store).
+Para visualizar a nossa aplicação, acesse o [link]. Caso queira acessar a nossa API, acesse o [link].
 
 ------
 
@@ -43,7 +42,7 @@ A versão web do aplicativo estará disponível em breve. Para acessar a versão
 
 Este é o time de desenvolvimento responsável pela concepção e implementação do projeto EducaMães:
 
-| [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Diogo Nogueira Lima - dnl3@cin.ufpe.br</sub>](https://github.com/DiogoNogueiraLima) | [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Rodrigo Amaral Jucá - rodrigo.juca@email.com</sub>](https://github.com/rodrigojuca) |  [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Luis Filipe Vasconcelos - luis.vasconcelos@email.com</sub>](https://github.com/luisvasconcelos) | [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Matheus Augusto Alves Bonfim - matheus.bonfim@email.com</sub>](https://github.com/matheusbonfim) |
+| [<img src="" width=115><br><sub>Diogo Nogueira Lima - dnl3@cin.ufpe.br</sub>](https://github.com/DiogoNogueiraLima) | [<img src="" width=115><br><sub>Rodrigo Amaral Jucá - reaj@cin.ufpe.br</sub>](https://github.com/rodrigojuca) |  [<img src="" width=115><br><sub>Luis Filipe Vasconcelos - lfvp@cin.ufpe.br</sub>](https://github.com/luisvasconcelos) | [<img src="" width=115><br><sub>Matheus Augusto Alves Bonfim - maab2@cin.ufpe.br</sub>](https://github.com/matheusbonfim) |
 | :---: | :---: | :---: | :---: |
 
 Líder da Equipe: Diogo Nogueira Lima - dnl3@cin.ufpe.br 

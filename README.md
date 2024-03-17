@@ -43,7 +43,8 @@ A versão web do aplicativo estará disponível em breve. Para acessar a versão
 
 Este é o time de desenvolvimento responsável pela concepção e implementação do projeto EducaMães:
 
-| [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Rodrigo Amaral Jucá - rodrigo.juca@email.com</sub>](https://github.com/rodrigojuca) | [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Diogo Nogueira Lima - dnl3@cin.ufpe.br</sub>](https://github.com/DiogoNogueiraLima) | [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Luis Filipe Vasconcelos - luis.vasconcelos@email.com</sub>](https://github.com/luisvasconcelos) | [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Matheus Augusto Alves Bonfim - matheus.bonfim@email.com</sub>](https://github.com/matheusbonfim) |
+| [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Diogo Nogueira Lima - dnl3@cin.ufpe.br</sub>](https://github.com/DiogoNogueiraLima) | [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Rodrigo Amaral Jucá - rodrigo.juca@email.com</sub>](https://github.com/rodrigojuca) |  [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Luis Filipe Vasconcelos - luis.vasconcelos@email.com</sub>](https://github.com/luisvasconcelos) | [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Matheus Augusto Alves Bonfim - matheus.bonfim@email.com</sub>](https://github.com/matheusbonfim) |
 | :---: | :---: | :---: | :---: |
-| **Líder da Equipe:** Diogo Nogueira Lima - dnl3@cin.ufpe.br |
+
+Líder da Equipe: Diogo Nogueira Lima - dnl3@cin.ufpe.br 
 

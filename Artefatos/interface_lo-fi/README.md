@@ -10,6 +10,8 @@ A tela inicial foi projetada para fornecer uma visão geral do aplicativo, apres
 ### Login e Cadastro
 As telas de login e cadastro foram desenhadas com foco na simplicidade e facilidade de uso, permitindo que novos usuários criem suas contas e acessem rapidamente o aplicativo.
 
+![alt text](<Captura de tela 2024-03-17 172507.png>)
+
 ### Painel de Controle
 O painel de controle é o centro de operações do aplicativo, onde os usuários podem visualizar e gerenciar suas finanças de forma eficiente.
 
@@ -18,6 +20,8 @@ A tela de categorias foi criada para fornecer aos usuários a capacidade de adic
 
 ### Editar Perfil
 A tela de edição de perfil permite aos usuários atualizarem suas informações pessoais conforme necessário, garantindo uma experiência personalizada e relevante.
+
+![alt text](<Captura de tela 2024-03-17 172636.png>)
 
 ## Escolha da Cor Roxa
 
@@ -34,3 +38,5 @@ A cor roxa foi escolhida como a cor principal do aplicativo por várias razões:
 ## Conclusão
 
 O design realizado no Figma para o aplicativo educaMaes é o resultado de um processo cuidadoso de planejamento e execução, visando proporcionar uma experiência de usuário intuitiva, eficiente e atraente. Desde a seleção das telas até a escolha das cores, cada elemento foi pensado para atender às necessidades específicas das mães solo, ajudando-as a gerenciar suas finanças de forma mais eficaz e tranquila.
+
+![!\[alt text\](image.png)](<Captura de tela 2024-03-17 183220.png>)

@@ -16,7 +16,7 @@ export default function Welcome() {
 
                 <View className="pt-40">
                     <TouchableOpacity onPress={() => navigation.navigate("Login")} className="h-[61px] bg-[#CB6CE6] rounded-3xl mx-7 items-center justify-center">
-                        <Text className="text-white text-xl font-semibold">Iniciar</Text>
+                        <Text className="text-white text-2xl font-semibold">Iniciar</Text>
                     </TouchableOpacity>
                 </View>
 

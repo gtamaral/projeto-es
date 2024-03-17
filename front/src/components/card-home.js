@@ -1,7 +1,6 @@
 import { CardBase } from "@rneui/base/dist/Card/Card";
 import { CardTitle } from "@rneui/base/dist/Card/Card.Title";
 import { Text, View } from "react-native";
-import { Card } from '@rneui/themed';
 
 
 

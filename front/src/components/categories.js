@@ -10,7 +10,7 @@ const Categories = ({title, totalValue}) => {
                     <AntDesign name="heart" size={18} color="black" />
                     <Text className="font-medium text-lg">{title}</Text>
                 </View>
-                <Text className="font-semibold text-lg">R${totalValue},00</Text>
+                <Text className="font-medium text-lg">R${totalValue},00</Text>
             </View>
         </TouchableOpacity>
     )

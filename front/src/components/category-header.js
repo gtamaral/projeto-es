@@ -1,18 +1,27 @@
-import { Text, TouchableOpacity, View } from "react-native";
+import { FlatList, Text, TouchableOpacity, View } from "react-native";
 import CardCategory from "./card-category";
 import { AntDesign } from '@expo/vector-icons';
 import { CATEGORIAS, CATEGORIAS_GASTOS_COM_TOTAL } from "../utils/data/info";
-import { useState } from "react";
+import { useRef, useState } from "react";
+import CategoryButton from "./category-button";
 
 
 
 export default function CategoryHeader() {
     const [category, setCategory] = useState(CATEGORIAS[0])
+    const sectionRef = useRef(null)
+    const handleCategorySelect = (selectedCategory) => {
+      setCategory(selectedCategory)
+
+      const sectionIndex = CATEGORIAS.findIndex((category) => category === selectedCategory)
+
+    }
     
     const categorySelectedPrice = CATEGORIAS_GASTOS_COM_TOTAL.find(categoria => categoria.title === category)
 
     return  (
         <>
+       
             <View className="">
           {categorySelectedPrice && (
               <CardCategory name={categorySelectedPrice.title} value={categorySelectedPrice.totalValue.toFixed(2)} />

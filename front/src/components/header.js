@@ -1,5 +1,5 @@
 import { Avatar } from "@rneui/base/dist/Avatar/Avatar"
-import { View, Text, statusBar, SafeAreaView } from "react-native"
+import { View, Text, SafeAreaView } from "react-native"
 
 export default function Header({name}) {
     return(
@@ -11,8 +11,7 @@ export default function Header({name}) {
                         title="Mj"
                         containerStyle={{ backgroundColor: "gray" }}
                          />
-                    <Text className="text-base text-white pl-8 font-bold">Olá, {name}!</Text>
-                    
+                    <Text className="text-base text-white pl-8 font-semibold">Olá, {name}!</Text>
                 </View>
             </View>
     )

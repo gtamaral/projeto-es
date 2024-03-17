@@ -22,12 +22,12 @@ Para o desenvolvimento do projeto, adotamos uma abordagem ágil, combinando prá
 
 Aqui estão as principais tecnologias utilizadas no desenvolvimento do projeto:
 
-| Ferramenta | Descrição | Justificativa para o Uso |
-| --- | --- | --- |
-| `React Native` | Framework para desenvolvimento de aplicativos móveis | Permitirá a criação de uma interface de usuário intuitiva e responsiva, compatível com dispositivos Android e iOS. |
-| `Expo` | Plataforma para desenvolvimento e implantação de aplicativos React Native | Facilita o processo de desenvolvimento, permitindo o teste e implantação rápida do aplicativo em dispositivos móveis. |
-| `Node.js` | Plataforma para execução de código JavaScript no servidor | Permitirá a construção de um backend robusto e escalável para suportar as funcionalidades do aplicativo. |
-| `Express.js` | Framework web para Node.js | Simplificará o desenvolvimento de APIs RESTful para comunicação entre o frontend e o backend. |
+| Ferramenta          | Descrição                                                               | Justificativa para o Uso                                                                                                                                                                                               |
+|---------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| React Native        | Framework para desenvolvimento de aplicativos móveis                   | Permitirá a criação de uma interface de usuário intuitiva e responsiva, compatível com dispositivos Android e iOS.                                                                                                    |
+| Expo                | Plataforma para desenvolvimento e implantação de aplicativos React Native | Facilita o processo de desenvolvimento, permitindo o teste e implantação rápida do aplicativo em dispositivos móveis.                                                                                                 |
+| Firebase            | Plataforma de desenvolvimento de aplicativos móveis e web                | Optamos pelo Firebase como nossa solução backend, aproveitando seus serviços integrados como autenticação, banco de dados Firestore e armazenamento. Isso nos permite focar no desenvolvimento das funcionalidades sem nos preocuparmos com a configuração e manutenção da infraestrutura do servidor. |
+| Context API do React | API para gerenciamento de estado global da aplicação                     | Implementamos a Context API do React para gerenciar o estado global da aplicação, facilitando o compartilhamento de dados entre componentes e melhorando a performance geral do aplicativo.                             |
 
 ------
 

@@ -15,6 +15,7 @@ O projeto EducaMães consiste em um aplicativo móvel destinados a ajudar mães 
 ## Metodologia de Desenvolvimento Utilizada
 
 Para o desenvolvimento do projeto, adotamos uma abordagem ágil, combinando práticas do Scrum e Kanban. Utilizamos ferramentas como Trello, Notion e GitHub para gerenciamento de tarefas e comunicação entre a equipe. , que pode ser acessado neste [link]().
+
 ------
 
 ## Tecnologias Utilizadas

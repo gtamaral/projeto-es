@@ -22,6 +22,12 @@ No projeto, foram utilizados frameworks e ferramentas de gerenciamento de projet
 - **Trello e Notion:**
   - O Trello foi usado para criar quadros Kanban que representavam as tarefas pendentes, em execução e concluídas, proporcionando uma visão clara do progresso do projeto.
   - O Notion foi utilizado para documentar e organizar informações importantes, como requisitos, cronogramas e registros de reuniões.
+    
+  <br>
+  
+  ![alt text](<Captura de tela 2024-03-17 183453.png>)
+  
+  <br>
 
 - **GitHub:**
   - O GitHub foi empregado como plataforma de controle de versão e colaboração de código, permitindo que a equipe trabalhasse de forma colaborativa e rastreasse alterações no código-fonte do aplicativo.
@@ -37,7 +43,12 @@ No contexto do projeto, a gestão de equipes e a colaboração foram fundamentai
   - Canais de comunicação como WhatsApp e Discord foram utilizados para comunicação informal entre os membros da equipe, promovendo uma colaboração mais próxima e facilitando a resolução rápida de problemas.
 
 - **Reuniões de Validação:**
-  - A equipe realizou reuniões periódicas de validação, onde todos os membros revisaram e discutiram os artefatos produzidos, garantindo que estivessem alinhados com os objetivos do projeto e as expectativas do cliente.
+  - A equipe realizou reuniões periódicas de validação, onde os membros revisaram e discutiram os artefatos produzidos, garantindo que estivessem alinhados com os objetivos do projeto e as expectativas do cliente.
+  <br>
+  
+  ![alt text](<Captura de tela 2024-03-17 160429.png>)
+  
+  <br>
 
 ## Considerações Finais
 

@@ -1,13 +1,44 @@
-## Como será a jornada para a execução do projeto?
+## Planejamento, Estimativas e Acompanhamento de Projetos
 
-Optamos por adotar uma abordagem preliminar no projeto, com o intuito de aprimorar o conjunto inicial de práticas e abordagens estabelecidas para guiar as atividades da equipe ao longo do projeto, incluindo a incorporação do Scrumban, integrando o Scrum para realizar sprints quinzenais e o Kanban para o acompanhamento detalhado de cada sprint. Essa combinação permite a criação de ciclos de trabalho focados e ágeis, utilizando o Scrum para estruturar nossas atividades em períodos definidos e o Kanban para uma gestão contínua e visual, garantindo um acompanhamento preciso e eficiente de cada etapa do processo. Nesse sentido, escolhemos o Trello como nossa principal ferramenta para monitorar o progresso das atividades realizadas pelos membros. O Trello oferece uma plataforma que facilita a aplicação dos métodos Scrum/Kanban, proporcionando benefícios tanto em termos visuais quanto colaborativos. Isso permite uma organização eficiente e um monitoramento claro das tarefas em andamento. O Notion também foi utilizado para manter esse acompanhamento e a gestão do processo e o acompanhamento das atividades de forma com que tudo fique documentado de forma clara e direta.
+No projeto de desenvolvimento do aplicativo de gestão financeira para mães solteiras, foram adotadas práticas de planejamento, estimativas e acompanhamento para garantir o progresso e o sucesso do projeto.
 
-A definição de prazos, descrições e a alocação de links/documentos relacionados a cada entrega, juntamente com a organização pública e de fácil acesso para todos, são aspectos extremamente positivos que auxiliam no desenvolvimento do projeto. Além da comunicação assíncrona via WhatsApp e Discord, decidimos realizar reuniões semanais pessoalmente, no CIn, ou por meio de videoconferências, utilizando plataformas como Discord e Google Meet. Essas reuniões têm o propósito de atribuir tarefas entre os membros, alinhar estratégias, discutir desafios e compartilhar atualizações sobre o progresso das atividades.
+- **Planejamento:**
+  - O projeto foi dividido em etapas claras, conforme descrito nas fases do planejamento: entendimento do contexto do problema, prototipagem, desenvolvimento do aplicativo e conclusão do projeto.
+  - Para cada etapa, foram definidos objetivos específicos e marcos importantes a serem alcançados.
 
-Essa abordagem integrada visa promover uma comunicação eficaz, um acompanhamento transparente do progresso e uma validação contínua, contribuindo para o sucesso do projeto.
+- **Estimativas:**
+  - A equipe realizou estimativas de tempo e esforço para cada fase do projeto, com base na complexidade das tarefas e na disponibilidade dos recursos.
+  - As estimativas foram usadas para criar um cronograma inicial e definir prazos realistas para a conclusão de cada etapa.
 
-## Links:
+- **Acompanhamento:**
+  - Foi adotada uma abordagem de acompanhamento regular do progresso do projeto, com reuniões de status periódicas para revisar o andamento das atividades, identificar possíveis problemas e ajustar o plano, conforme necessário.
+  - O uso de ferramentas de gerenciamento de projetos, como Trello e Notion, facilitou o acompanhamento e a comunicação entre os membros da equipe.
 
-https://trello.com/b/FCBg8Ym4/kanban-quadro-modelo
 
-https://www.notion.so/Projeto-de-Engenharia-de-Software-c322264368424341889916e1e42f86e1
+## Frameworks e Ferramentas de Gerenciamento de Projetos
+
+No projeto, foram utilizados frameworks e ferramentas de gerenciamento de projetos para facilitar a organização, colaboração e acompanhamento das atividades.
+
+- **Trello e Notion:**
+  - O Trello foi usado para criar quadros Kanban que representavam as tarefas pendentes, em execução e concluídas, proporcionando uma visão clara do progresso do projeto.
+  - O Notion foi utilizado para documentar e organizar informações importantes, como requisitos, cronogramas e registros de reuniões.
+
+- **GitHub:**
+  - O GitHub foi empregado como plataforma de controle de versão e colaboração de código, permitindo que a equipe trabalhasse de forma colaborativa e rastreasse alterações no código-fonte do aplicativo.
+
+## Gestão de Equipes e Colaboração em Projetos de Software
+
+No contexto do projeto, a gestão de equipes e a colaboração foram fundamentais para garantir a eficiência e o sucesso da implementação do aplicativo.
+
+- **Divisão de Tarefas:**
+  - A equipe adotou uma abordagem de divisão explícita de tarefas, com cada membro responsável por áreas específicas do desenvolvimento, como front end, back end e design.
+
+- **Comunicação Eficiente:**
+  - Canais de comunicação como WhatsApp e Discord foram utilizados para comunicação informal entre os membros da equipe, promovendo uma colaboração mais próxima e facilitando a resolução rápida de problemas.
+
+- **Reuniões de Validação:**
+  - A equipe realizou reuniões periódicas de validação, onde todos os membros revisaram e discutiram os artefatos produzidos, garantindo que estivessem alinhados com os objetivos do projeto e as expectativas do cliente.
+
+## Considerações Finais
+
+A adoção de práticas eficazes de planejamento, estimativas, acompanhamento, frameworks e ferramentas de gerenciamento de projetos, bem como a gestão de equipes e colaboração, foi fundamental para o sucesso do projeto de desenvolvimento do aplicativo de gestão financeira para mães solteiras. Essas práticas garantiram que o projeto fosse concluído dentro do prazo e do orçamento, ao mesmo tempo em que atendia às expectativas do cliente e às necessidades do público-alvo.

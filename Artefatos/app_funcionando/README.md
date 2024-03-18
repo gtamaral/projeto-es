@@ -1,4 +1,4 @@
-# Tour pelo Aplicativo educaMaes
+# Tour pelo Aplicativo EducaMães
 
 Bem-vindo ao educaMaes! Este tour oferecerá uma visão geral das principais funcionalidades e telas do nosso aplicativo, projetado para ajudar mães solo a gerenciar suas finanças de forma eficiente e organizada.
 
@@ -69,6 +69,8 @@ O primeiro video mostra a as telas inicial, login e cadastro.
     <video controls width="200" height="450" src="WhatsApp Video 2024-03-11 at 13.08.48.mp4" title="Title"></video>
 </div>
 
+Baixe pelo [link](https://github.com/gtamaral/projeto-es/blob/main/Artefatos/app_funcionando/WhatsApp%20Video%202024-03-11%20at%2013.08.48.mp4)
+
 ### Segundo video
 
 A segunda video mostra as telas de painel de controle e categorias, assim como os detalhes de cada seção em categorias.
@@ -76,6 +78,8 @@ A segunda video mostra as telas de painel de controle e categorias, assim como o
 <div style="display: flex; justify-content: center;">
     <video controls width="200" height="450" src="WhatsApp Video 2024-03-11 at 13.08.55.mp4" title="Title"></video></video>
 </div>
+
+Baixe pelo [link](https://github.com/gtamaral/projeto-es/blob/main/Artefatos/app_funcionando/WhatsApp%20Video%202024-03-11%20at%2013.08.55.mp4)
 
 ### Considerações
 Esperamos que este tour pelo educaMaes tenha sido útil para você entender as principais funcionalidades e telas do nosso aplicativo. Se tiver alguma dúvida ou precisar de ajuda, não hesite em nos contatar. Estamos aqui para ajudar!

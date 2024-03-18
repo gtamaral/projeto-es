@@ -2,9 +2,9 @@
 
 Bem-vindo ao educaMaes! Este tour oferecerá uma visão geral das principais funcionalidades e telas do nosso aplicativo, projetado para ajudar mães solo a gerenciar suas finanças de forma eficiente e organizada.
 
-<div style="text-align:center;">
-    <img src="WhatsApp Image 2024-03-11 at 16.05.52.jpeg" alt="alt text" width="300"/>
-</div>
+<p align="center">
+  <img src="WhatsApp Image 2024-03-11 at 16.05.52.jpeg" alt="alt text" width="300"/>
+</p>
 
 ## 1. Logo do App
 A logo do aplicativo educaMaes é mais do que apenas uma imagem; é o símbolo da nossa missão de fornecer suporte e recursos essenciais para mães solo em sua jornada de gestão financeira e organização pessoal. 
@@ -18,44 +18,45 @@ Além disso, a tipografia escolhida para o nome "EducaMães" é moderna e legív
 No geral, a logo do aplicativo EducaMães encapsula nossa visão de proporcionar uma plataforma confiável e acessível para mães solo alcançarem independência financeira e bem-estar emocional.
 
 <br>
-<div style="text-align:center;">
-    <img src="WhatsApp Image 2024-03-15 at 22.12.35.jpeg" alt="alt text" width="400"/>
-</div>
+<p align="center">
+  <img src="WhatsApp Image 2024-03-15 at 22.12.35.jpeg" alt="alt text" width="400"/>
+</p>
+
 
 ## 2. Tela Inicial
 Ao abrir o aplicativo, você será recebido pela tela inicial, que apresenta a logo do educaMaes e um botão "Iniciar". Clique no botão para acessar as funcionalidades do aplicativo.
 
-<div style="text-align:center;">
-    <img src="WhatsApp Image 2024-03-11 at 13.08.28 (2).jpeg" alt="alt text" width="180"/>
-</div>
+<p align="center">
+    <img src="WhatsApp Image 2024-03-11 at 13.08.28 (2).jpeg" alt="alt text" width="250"/>
+</p>
 
 ## 3. Login
 Para usuários registrados, a tela de login permite acessar a conta existente. Insira seu e-mail e senha para fazer login e começar a usar o aplicativo.
 
-<div style="text-align:center;">
-    <img src="WhatsApp Image 2024-03-11 at 13.08.28 (1).jpeg" alt="alt text" width="180"/>
-</div>
+<p align="center">
+    <img src="WhatsApp Image 2024-03-11 at 13.08.28 (1).jpeg" alt="alt text" width="250"/>
+</p>
 
 ## 4. Cadastro
 Se você é um novo usuário, pode se cadastrar facilmente na tela de cadastro. Preencha os campos necessários com suas informações pessoais e crie uma nova conta no EducaMães.
 
-<div style="text-align:center;">
-    <img src="WhatsApp Image 2024-03-11 at 13.08.28.jpeg" alt="alt text" width="180"/>
-</div>
+<p align="center">
+    <img src="WhatsApp Image 2024-03-11 at 13.08.28.jpeg" alt="alt text" width="250"/>
+</p>
 
 ## 5. Painel de Controle
 Após fazer login, você será direcionado para o painel de controle, onde terá acesso a todas as funcionalidades do aplicativo. Aqui, você poderá visualizar seus gastos, adicionar novas despesas, configurar metas financeiras e muito mais.
 
-<div style="text-align:center;">
-    <img src="WhatsApp Image 2024-03-11 at 13.08.37.jpeg" alt="alt text" width="180"/>
-</div>
+<p align="center">
+    <img src="WhatsApp Image 2024-03-11 at 13.08.37.jpeg" alt="alt text" width="250"/>
+</p>
 
 ## 6. Categorias
 A seção de categorias permite que você organize seus gastos por tipo, facilitando a visualização e o controle das suas finanças. Você pode adicionar novas categorias, editar as existentes e atribuir despesas a cada uma delas.
 
-<div style="text-align:center;">
-    <img src="WhatsApp Image 2024-03-11 at 13.08.38.jpeg" alt="alt text" width="180"/>
-</div>
+<p align="center">
+    <img src="WhatsApp Image 2024-03-11 at 13.08.38.jpeg" alt="alt text" width="250"/>
+</p>
 
 
 ## 7. Vídeos de Demonstração do Aplicativo
@@ -65,9 +66,9 @@ Nós preparamos dois vídeos para apresentar o funcionamento do nosso aplicativo
 ### Primeiro video
 
 O primeiro video mostra a as telas inicial, login e cadastro.
-<div style="display: flex; justify-content: center;">
+<p align="center">
     <video controls width="200" height="450" src="WhatsApp Video 2024-03-11 at 13.08.48.mp4" title="Title"></video>
-</div>
+</p>
 
 Baixe pelo [link](https://github.com/gtamaral/projeto-es/blob/main/Artefatos/app_funcionando/WhatsApp%20Video%202024-03-11%20at%2013.08.48.mp4)
 
@@ -75,9 +76,9 @@ Baixe pelo [link](https://github.com/gtamaral/projeto-es/blob/main/Artefatos/app
 
 A segunda video mostra as telas de painel de controle e categorias, assim como os detalhes de cada seção em categorias.
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
     <video controls width="200" height="450" src="WhatsApp Video 2024-03-11 at 13.08.55.mp4" title="Title"></video></video>
-</div>
+</p>
 
 Baixe pelo [link](https://github.com/gtamaral/projeto-es/blob/main/Artefatos/app_funcionando/WhatsApp%20Video%202024-03-11%20at%2013.08.55.mp4)
 

@@ -1,6 +1,6 @@
-# :books: Mãe Financeira - Projeto de Engenharia de Software
+# :books: EducaMãe$ - Projeto de Engenharia de Software
 
-Este repositório é dedicado ao projeto EducaMães, desenvolvido como parte do curso de Engenharia de Software do Centro de Informática ([CIn](https://portal.cin.ufpe.br/)) da Universidade Federal de Pernambuco ([UFPE](https://www.ufpe.br)).
+Este repositório é dedicado ao projeto EducaMãe$, desenvolvido como parte do curso de Engenharia de Software do Centro de Informática ([CIn](https://portal.cin.ufpe.br/)) da Universidade Federal de Pernambuco ([UFPE](https://www.ufpe.br)).
 
 Aqui, você encontrará os códigos desenvolvidos ao longo do processo, bem como informações relevantes sobre o projeto, como autores, tecnologias utilizadas, acesso à aplicação e artefatos.
 
@@ -8,7 +8,7 @@ Aqui, você encontrará os códigos desenvolvidos ao longo do processo, bem como
 
 ## Escopo
 
-O projeto EducaMães consiste em um aplicativo móvel destinados a ajudar mães solteiras na gestão financeira, organização de suas vidas e dos seus filhos. O objetivo é oferecer ferramentas que facilitem o controle de gastos, planejamento financeiro e acesso a recursos adicionais, como suporte legal, documentação de saúde e rede de apoio virtual.
+O projeto EducaMãe$ consiste em um aplicativo móvel destinados a ajudar mães solteiras na gestão financeira, organização de suas vidas e dos seus filhos. O objetivo é oferecer ferramentas que facilitem o controle de gastos, planejamento financeiro e acesso a recursos adicionais, como suporte legal, documentação de saúde e rede de apoio virtual.
 
 ------
 
@@ -41,7 +41,7 @@ Para visualizar a nosso aplicativo funcionando, acesse o [link](https://github.c
 
 ## Autores do Projeto
 
-Este é o time de desenvolvimento responsável pela concepção e implementação do projeto EducaMães:
+Este é o time de desenvolvimento responsável pela concepção e implementação do projeto EducaMãe$:
 
 | [<img src="https://avatars.githubusercontent.com/u/115439066?v=4" width=160>](https://github.com/DiogoNogueiraLima) <br><sub>Diogo Nogueira Lima - dnl3@cin.ufpe.br</sub> | [<img src="https://avatars.githubusercontent.com/u/113607491?v=4" width=160>](https://github.com/gtamaral) <br><sub>Rodrigo Amaral Jucá - reaj@cin.ufpe.br</sub> | [<img src="https://avatars.githubusercontent.com/u/110510265?v=4" width=160>](https://github.com/luisfv10) <br><sub>Luis Filipe Vasconcelos - lfvp@cin.ufpe.br</sub> | [<img src="https://avatars.githubusercontent.com/u/115117550?v=4" width=160>](https://github.com/matheusbon) <br><sub>Matheus Augusto Alves Bonfim - maab2@cin.ufpe.br</sub> |
 | :---: | :---: | :---: | :---: |

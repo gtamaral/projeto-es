@@ -43,8 +43,10 @@ Para visualizar a nosso aplicativo funcionando, acesse o [link](https://github.c
 
 Este é o time de desenvolvimento responsável pela concepção e implementação do projeto EducaMães:
 
-| [![!\[<img src="image.png"\](image.png)](imagens/image.png) <br><sub>Diogo Nogueira Lima - dnl3@cin.ufpe.br</sub>](https://github.com/DiogoNogueiraLima) | [<img src="" width=115><br><sub>Rodrigo Amaral Jucá - reaj@cin.ufpe.br</sub>](https://github.com/rodrigojuca) |  [<img src="" width=115><br><sub>Luis Filipe Vasconcelos - lfvp@cin.ufpe.br</sub>](https://github.com/luisvasconcelos) | [![!\[<img src="foto_perfil_matheus.png" width=115\](foto_perfil_matheus.png)](imagens/foto_perfil_matheus.png) <br><sub>Matheus Augusto Alves Bonfim - maab2@cin.ufpe.br</sub>](https://github.com/matheusbon) |
+| [<img src="imagens/image.png" width=143>](https://github.com/DiogoNogueiraLima) <br><sub>Diogo Nogueira Lima - dnl3@cin.ufpe.br</sub> | [<img src="https://avatars.githubusercontent.com/u/113607491?v=4" width=160><br><sub>Rodrigo Amaral Jucá - reaj@cin.ufpe.br</sub>](https://github.com/gtamaral) | [<img src="https://avatars.githubusercontent.com/u/110510265?v=4" width=160><br><sub>Luis Filipe Vasconcelos - lfvp@cin.ufpe.br</sub>](https://github.com/luisfv10) | [<img src="https://avatars.githubusercontent.com/u/115117550?v=4" width=160>](https://github.com/matheusbon) <br><sub>Matheus Augusto Alves Bonfim - maab2@cin.ufpe.br</sub> |
 | :---: | :---: | :---: | :---: |
+
+
 
 Líder da Equipe: Diogo Nogueira Lima - dnl3@cin.ufpe.br 
 

@@ -39,12 +39,58 @@ Para visualizar a nosso aplicativo funcionando, acesse o [link](https://github.c
 
 ------
 
+## Requisitos preliminares
+
+Antes de começar, certifique-se de que você atende aos seguintes requisitos:
+
+ 1. Clone o projeto em sua máquina e abra-o no seu editor de código favorito. Para isso, utilize o comando Git abaixo no seu terminal:
+``
+git clone <URL_DO_REPOSITÓRIO_DO_PROJETO>
+``
+
+ 2. Instalação do Node.js e npm (ou yarn): Certifique-se de que você tem o Node.js versão 12.x ou superior e npm (Node Package Manager) ou yarn instalado em sua máquina. Para verificar, execute os comandos abaixo no seu terminal:
+``node --version
+npm --version
+// Ou, se você preferir usar yarn:
+yarn --version
+``
+ 3. Expo CLI: Este projeto utiliza o Expo para facilitar o desenvolvimento de aplicativos com React Native. Instale o Expo CLI globalmente em sua máquina utilizando o npm ou yarn:
+``npm install -g expo-cli
+// Ou
+yarn global add expo-cli
+``
+4.Emulador ou Dispositivo Físico: Para visualizar o aplicativo, você pode usar um emulador Android/iOS ou um dispositivo físico. Para dispositivos físicos, instale o aplicativo Expo Go disponível nas lojas de aplicativos.
+
+## Como rodar o projeto
+
+ 1. Instalação das Dependências: No terminal, navegue até a pasta do projeto clonado e execute o seguinte comando para instalar todas as dependências necessárias:
+``
+npm install
+// Ou, se você estiver usando yarn:
+yarn
+``
+
+ 2. Inicialização do Projeto: Após a instalação das dependências, ainda no terminal e na pasta do projeto, execute o comando abaixo para iniciar o projeto com Expo:
+``
+expo start
+``
+ 3. Executando no Emulador ou Dispositivo Físico:
+Para emuladores, o Expo CLI fornecerá opções para executar no emulador Android/iOS diretamente do terminal.
+Para dispositivos físicos, escaneie o QR Code fornecido pelo Expo CLI utilizando o aplicativo Expo Go.
+
+
+A partir desses passos, o App EducaMães estará rodando em seu emulador ou dispositivo físico, permitindo que você explore suas funcionalidades.
+
+Observação: Para uma experiência completa, é recomendado ter acesso à Internet e seguir as instruções específicas para configuração do Firebase e outras integrações conforme documentado no projeto.
+
 ## Autores do Projeto
 
 Este é o time de desenvolvimento responsável pela concepção e implementação do projeto EducaMãe$:
 
 | [<img src="https://avatars.githubusercontent.com/u/115439066?v=4" width=160>](https://github.com/DiogoNogueiraLima) <br><sub>Diogo Nogueira Lima - dnl3@cin.ufpe.br</sub> | [<img src="https://avatars.githubusercontent.com/u/113607491?v=4" width=160>](https://github.com/gtamaral) <br><sub>Rodrigo Amaral Jucá - reaj@cin.ufpe.br</sub> | [<img src="https://avatars.githubusercontent.com/u/110510265?v=4" width=160>](https://github.com/luisfv10) <br><sub>Luis Filipe Vasconcelos - lfvp@cin.ufpe.br</sub> | [<img src="https://avatars.githubusercontent.com/u/115117550?v=4" width=160>](https://github.com/matheusbon) <br><sub>Matheus Augusto Alves Bonfim - maab2@cin.ufpe.br</sub> |
 | :---: | :---: | :---: | :---: |
+
+
 
 
 

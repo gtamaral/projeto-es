@@ -82,5 +82,9 @@ A segunda video mostra as telas de painel de controle e categorias, assim como o
 
 Baixe pelo [link](https://github.com/gtamaral/projeto-es/blob/main/Artefatos/app_funcionando/WhatsApp%20Video%202024-03-11%20at%2013.08.55.mp4)
 
+
+### Video completo do app funcionando
+Baixe pelo [link](https://github.com/gtamaral/projeto-es/blob/main/Artefatos/app_funcionando/WhatsApp%20Video%202024-03-18%20at%2019.06.58.mp4)
+
 ### Considerações
 Esperamos que este tour pelo educaMaes tenha sido útil para você entender as principais funcionalidades e telas do nosso aplicativo. Se tiver alguma dúvida ou precisar de ajuda, não hesite em nos contatar. Estamos aqui para ajudar!

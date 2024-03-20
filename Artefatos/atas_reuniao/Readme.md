@@ -175,8 +175,7 @@ Ação         | Responsável
 ------------ | ------------- 
 Divisão de tarefas | Diogo
 Atas das reuniões | Luís 
-Testes com protótipo | Rodrigo e Diogo
-Slides | Luís 
+Slides | Todos 
 Conteúdo | Luís 
 Integração com banco de dados | Matheus
 

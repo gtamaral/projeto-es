@@ -41,7 +41,27 @@ Registro de acompanhamento | Matheus
 
 
 
-
+# EducaMães
+## Ata de Reunião
+Data | Local
+------------ | -------------
+06/12/2023 | Google meet
+### Participantes
+* Luis Filipe Vasconcelos Pascoal
+* Rodrigo Eduardo Amaral
+* Matheus Augusto Alves Bonfim
+* Diogo Nogueira Lima
+* Isabella Pereira Carrer
+  
+### Objetivos
+* Validação das Histórias de usuário
+* Identificação de Dores dos Clientes
+* Refinamento da Big Idea
+  
+### Tópicos Discutidos
+* Dores das Mães solos
+* Contextualização do Projeto
+* Definição do valor diferencial e estratégia de posicionamento
 
 
 
